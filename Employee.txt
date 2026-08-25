@@ -5,3 +5,5 @@ E104 Raj Sales      Executive    40000
 E105 Neha           IT Tester    42000
 E106 Ishu           SD           70000 (Intern)
 E107 Manasa         SD role      65000 
+E108 Rama           Data Analyst 56000
+E109 Sita           Cloud Eng    70000
